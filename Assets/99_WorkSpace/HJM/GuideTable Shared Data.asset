@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GuideTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GuideTable
+  m_TableCollectionNameGuidString: bdb196585558acd45a9265d984db32fc
+  m_Entries:
+  - m_Id: 6846922752
+    m_Key: 1_TowerCreate_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195657711616
+    m_Key: 1_TowerCreate_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 272367337472
+    m_Key: 1_TowerCreate_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246663979008
+    m_Key: 2_TowerComposite_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2317484802048
+    m_Key: 2_TowerComposite_Description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3224482070528
+    m_Key: 3_UserManual_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3253364047872
+    m_Key: 3_UserManual_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3292262023168
+    m_Key: 3_UserManual_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3763458523136
+    m_Key: 4_UI_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3776649609216
+    m_Key: 4_UI_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3778159558656
+    m_Key: 4_UI_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4324400545792
+    m_Key: 4_UI_Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4878631682048
+    m_Key: 5_Reward_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4921518440448
+    m_Key: 5_Reward_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4959355256832
+    m_Key: 5_Reward_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4960982646784
+    m_Key: 5_Reward_Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5889857404928
+    m_Key: 6_Mission_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5939547324416
+    m_Key: 6_Mission_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5971562446848
+    m_Key: 6_Mission_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5972300644352
+    m_Key: 6_Mission_Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6563315826688
+    m_Key: 7_Upgrade_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6605149814784
+    m_Key: 7_Upgrade_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6645750677504
+    m_Key: 7_Upgrade_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6654193811456
+    m_Key: 7_Upgrade_Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7694775468032
+    m_Key: 8_Element_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7814669647872
+    m_Key: 8_Element_Description1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7880507637760
+    m_Key: 8_Element_Description2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7881770123264
+    m_Key: 8_Element_Description3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341964727500800
+    m_Key: 9_Compatibility_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341968305242112
+    m_Key: 9_Compatibility_Description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3958732679647068163
+  references:
+    version: 2
+    RefIds:
+    - rid: 3958732679647068163
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747650038944

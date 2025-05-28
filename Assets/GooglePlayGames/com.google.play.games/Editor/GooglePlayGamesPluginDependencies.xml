@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dependencies>
+  <!-- Play-Services–Games v2만 내려받기 -->
+  <androidPackages>
+    <androidPackage spec="com.google.android.gms:play-services-games-v2:+" />
+  </androidPackages>
+  <!-- 로컬 m2repository 경로 지정 (UPM일 경우엔 Packages→Assets로 복사된 경로) -->
+  <repositories>
+    <repository>Assets/GooglePlayGames/com.google.play.games/Editor/m2repository</repository>
+  </repositories>
+</dependencies>

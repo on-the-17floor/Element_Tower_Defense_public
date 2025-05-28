@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Projectile Prefab
+  m_EditorClassIdentifier: 
+  m_GroupName: Projectile Prefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9469008096a7670488c3d2162ffdff8d
+  m_SerializeEntries:
+  - m_GUID: 4c231bbc625f34b46bad2db4bf36d48d
+    m_Address: 00_Gray Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ProjectilePrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f4c018b0db19e241aaf6879439ade44
+    m_Address: 01_Green Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ProjectilePrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f79c67112360d42a1eb2ba05616b70
+    m_Address: 02_Blue Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ProjectilePrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4aeed043de93bc4a83c7458430c8daa
+    m_Address: 03_Purple Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ProjectilePrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40d63df7bbf2c9546ad88e56eab83e7c
+    m_Address: 04_Hyper Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ProjectilePrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cff232f53ca606841af3044eb32c092f, type: 2}
+    - {fileID: 11400000, guid: 56c7fa574b0f22543b8855c2c96e63e1, type: 2}

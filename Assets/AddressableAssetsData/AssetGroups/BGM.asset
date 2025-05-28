@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BGM
+  m_EditorClassIdentifier: 
+  m_GroupName: BGM
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2563a8c7614f978489e1dce3085608cb
+  m_SerializeEntries:
+  - m_GUID: 1417fdcdf44010e4081649685a136083
+    m_Address: Assets/10_Audio/BGM/DungeonBGM.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbb31ca76bf354b41b9113d01073a507
+    m_Address: Assets/10_Audio/BGM/BossBGM.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe9c3263fdd90b145a3dfbd81e6174d1
+    m_Address: Assets/10_Audio/BGM/LobbyBGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c54bdeec4caeb794fa46d5a955ebda64, type: 2}
+    - {fileID: 11400000, guid: 6e124f9d7f3d26b4e885aee65cf48394, type: 2}

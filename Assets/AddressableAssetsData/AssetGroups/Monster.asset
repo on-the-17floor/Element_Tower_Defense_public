@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Monster
+  m_EditorClassIdentifier: 
+  m_GroupName: Monster
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 62138d558e641d04486b22bca0a24051
+  m_SerializeEntries:
+  - m_GUID: 82129042a5ed54c4098933cfec91ab44
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/071_Skeleton_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94063655e3d92ff4798df02383290cd9
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/070_Skeleton_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5980f995c99ee3d4d94689733c6f29f4
+    m_Address: Assets/03_Prefabs/Enemy/6_DeathGhost_Level2/063_DeathGhost_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5c33bd257c84c440a930921a6de47dd
+    m_Address: Assets/03_Prefabs/Enemy/6_DeathGhost_Level2/062_DeathGhost_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b88bd1180443f924c817a59126aaadfc
+    m_Address: Assets/03_Prefabs/Enemy/6_DeathGhost_Level2/061_DeathGhost_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d378eeb78582c3499fcd459869a7319
+    m_Address: Assets/03_Prefabs/Enemy/6_DeathGhost_Level2/060_DeathGhost_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 557084bf48059e14c8c462decdd268f3
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/054_bear2_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55acd8d4ca7c01439febf90fee09597
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/053_bear2_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5a7177f17b457f4d86e092c7c8cc0bb
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/052_bear2_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7b5ff319b34a244fbb948942a1e13b0
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/051_bear2_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 646fcbbdb18485c46b0fe265f654c64b
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/050_bear2_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 532565a4609d62447b4ff58ce3d2ff00
+    m_Address: Assets/03_Prefabs/Enemy/4_Mouse_Level2/043_mouse2_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee3178fa89ca4274c9be2231f3bf9319
+    m_Address: Assets/03_Prefabs/Enemy/4_Mouse_Level2/042_mouse2_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e05cc75ceeff1064ba2199011f239dca
+    m_Address: Assets/03_Prefabs/Enemy/4_Mouse_Level2/041_mouse2_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a82d473a7f26b384681efb5f02e5f3ac
+    m_Address: Assets/03_Prefabs/Enemy/4_Mouse_Level2/040_mouse2_FIre.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db9ce52bcdd178e4cb4257b9b2f26156
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/034_Stone_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a0e71e3347ef343bfe9c437cd95a55
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/033_Stone_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b73d9e09cfdad4342b86d7f4fb151bec
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/032_Stone_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bfe908a08e4ba345b640c9b424fa278
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/031_Stone_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdf27d43bc1a2fc4eaec458a5821cc47
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/030_Stone_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c59ddb2bbc89f4459485a7e27027802
+    m_Address: Assets/03_Prefabs/Enemy/2_DeathGhost_Level1/023_DeathGhost_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da18321f8d80e544d80b779e37aa5bac
+    m_Address: Assets/03_Prefabs/Enemy/2_DeathGhost_Level1/022_DeathGhost_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 238ea3fc55d3db141bcbc1713686757b
+    m_Address: Assets/03_Prefabs/Enemy/2_DeathGhost_Level1/021_DeathGhost_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c113ec346db8dd46acfc6ce4f998187
+    m_Address: Assets/03_Prefabs/Enemy/2_DeathGhost_Level1/020_DeathGhost_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6acb994d10374fe418e9634ef945d39c
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/014_bear_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be0475ce8bd8d6e4dabe936e6ac6d429
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/013_bear_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 757c81f91b65626489565b1545b682a1
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/012_bear_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 119a46f43c22b65468aafb1b9af897d7
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/011_bear_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c59c45727f66c34c9f86d851653a081
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/010_bear_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ce789544f42da343a642fdb6673ef7e
+    m_Address: Assets/03_Prefabs/Enemy/0_Mouse_Level1/004_mouse_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6706aeed4eed51746864bb1279b325c1
+    m_Address: Assets/03_Prefabs/Enemy/0_Mouse_Level1/003_mouse_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f9c29dee8adf3468f45dbc2b6b580b
+    m_Address: Assets/03_Prefabs/Enemy/0_Mouse_Level1/002_mouse_Water.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a51f4c1c8817c34eb14d0302ef84b14
+    m_Address: Assets/03_Prefabs/Enemy/0_Mouse_Level1/001_mouse_Fire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fa285424d402c749afe9c93c8b49e25
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/072_Skeleton_Ground.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a2b8858dd3cc844f9c88fea90db2713
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/073_Skeleton_Grass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77dbe06a92d26e84ea56f4fbe43e1a85
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/074_Skeleton_Light.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a652452b7f33bb4b8d181161d271968
+    m_Address: Assets/03_Prefabs/Enemy/7_Skeleton/075_Cerberus_Purple_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d05a219a5457af641954f89c3a51d706
+    m_Address: Assets/03_Prefabs/Enemy/5_Bear_Level2/055_Cerberus_Purple_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cf17314dad08f94a8347689a6cc25c9
+    m_Address: Assets/03_Prefabs/Enemy/3_Stone/035_Devil_Purple_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1dbf3f7d4e9ae849b2099b7f4d96216
+    m_Address: Assets/03_Prefabs/Enemy/1_Bear_Level1/015_Devil_Purple_Dark.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Monster
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a057fbe1d86aefd4a82d5d849abb41ec, type: 2}
+    - {fileID: 11400000, guid: 44284e2797ab32844856b777be27d88e, type: 2}

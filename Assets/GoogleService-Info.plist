@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>687659379863-iedv721an6emn04g7i73io8f87md4ao7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuqo9rOKmaxstdoj-IUPpE9vK7JHhl2YU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>687659379863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.onthe17floor.elementaldragondefense</string>
+	<key>PROJECT_ID</key>
+	<string>elemental-dragon-defense</string>
+	<key>STORAGE_BUCKET</key>
+	<string>elemental-dragon-defense.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:687659379863:ios:1f069327c64fa9eff44dd2</string>
+	<key>DATABASE_URL</key>
+	<string>https://elemental-dragon-defense-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

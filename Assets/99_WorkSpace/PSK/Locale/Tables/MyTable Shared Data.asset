@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: MyTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: MyTable
+  m_TableCollectionNameGuidString: 52a15b188b4a5b2449e042935a62f9b1
+  m_Entries:
+  - m_Id: 2384530718720
+    m_Key: UI Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633823371264
+    m_Key: UI Setting Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6595033120768
+    m_Key: Reward Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1573716712177664
+    m_Key: Wave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922426017103872
+    m_Key: GameOverRound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922836165509120
+    m_Key: GmaeOverResult
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923055032680448
+    m_Key: GameOverTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2132990010015744
+    m_Key: RewardUITitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143821758152704
+    m_Key: ResultVictory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143918667546624
+    m_Key: ResultDefeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246748329951232
+    m_Key: SummonTokenError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246776758943744
+    m_Key: UpgradTokenError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494616651382784
+    m_Key: RewardTicketError
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4036015276376064
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4036512775356416
+    m_Key: GiveUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4037418178789376
+    m_Key: UpgradSton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4789675337924608
+    m_Key: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790061109035008
+    m_Key: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790127811051520
+    m_Key: Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790154658791424
+    m_Key: Grass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790185218490368
+    m_Key: Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790210174599168
+    m_Key: Gray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790246308528128
+    m_Key: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790269825990656
+    m_Key: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790342349701120
+    m_Key: Purple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790396946956288
+    m_Key: Hyper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792413937418240
+    m_Key: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792470778626048
+    m_Key: AttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792511782141952
+    m_Key: AttackRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792573903978496
+    m_Key: UpgradValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6158199239163904
+    m_Key: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6848246670114816
+    m_Key: Choose Blue Tier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9859911590297600
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10212043766054912
+    m_Key: SelectSummon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10212258942238720
+    m_Key: SelectUpgradToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12746915994910720
+    m_Key: Message_SummonToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747140620861440
+    m_Key: Message_UpgradeToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747309647118336
+    m_Key: Message_RewardTicket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747425019838464
+    m_Key: Message_Stage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747508696203264
+    m_Key: Message_Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748019256246272
+    m_Key: Message_Ticket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748840316420096
+    m_Key: Message_GetReward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12749141823963136
+    m_Key: 'Message_HiddenMission '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975124744421376
+    m_Key: Special_Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975427040493568
+    m_Key: Special_Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975569030266880
+    m_Key: Special_Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975647958679552
+    m_Key: Special_Grass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975658989699072
+    m_Key: Special_Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976069494620160
+    m_Key: DefenseIgnore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976209034919936
+    m_Key: special ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976924272803840
+    m_Key: TowerType
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976960922632192
+    m_Key: TowerTier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14980921637453824
+    m_Key: Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14980958891261952
+    m_Key: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218956132139008
+    m_Key: nonSale
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4016334809056673817
+  references:
+    version: 2
+    RefIds:
+    - rid: 4016334809056673817
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1744341593308

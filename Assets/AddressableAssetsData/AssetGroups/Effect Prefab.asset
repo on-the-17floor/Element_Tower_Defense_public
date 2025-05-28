@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effect Prefab
+  m_EditorClassIdentifier: 
+  m_GroupName: Effect Prefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f71ea52d9cfc54249b8a283ceff1da70
+  m_SerializeEntries:
+  - m_GUID: 404864b7cb39f8b4c9df8fe0aed04da4
+    m_Address: 00_GrayHitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HitEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aff5c36e48066bc4a8a603f409f58a73
+    m_Address: 01_GreenHitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HitEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe60003b5e57d6d4d9f8127f69b1d49a
+    m_Address: 02_BlueHitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HitEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2f010f711313084f8d6729b564357e0
+    m_Address: 03_PurpleHitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HitEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66e46b0feb347bb4da7d0ac7fe76e756
+    m_Address: 04_HyperHitEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HitEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f60ad7e5987f6384a9ae90be3423e5c0
+    m_Address: 00_GrayMuzzleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MuzzleEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d57429cdf1010a4c96f20c732118f5d
+    m_Address: 01_GreenMuzzleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MuzzleEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7142cfb7bfd4f46458f46801e464bd5f
+    m_Address: 02_BlueMuzzleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MuzzleEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b31ecc67beade04449b8e0f09d52ca8b
+    m_Address: 03_PurpleMuzzleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MuzzleEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5dec521951509a4aa1a9bf0ea493740
+    m_Address: 04_HyperMuzzleEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - MuzzleEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37ded53d88b1e8b4b90cef8e9a8adc28
+    m_Address: 00_HyperCharging
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NormalEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67eb483b76e6c7d41ad65e1f8e71655c
+    m_Address: 01_NewTowerEffect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - NormalEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2224c15298ad0894ca5e4ed80c69d24c, type: 2}
+    - {fileID: 11400000, guid: 56330b35673dd0f4d96c0b61d7a1acb0, type: 2}

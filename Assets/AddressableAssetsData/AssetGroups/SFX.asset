@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SFX
+  m_EditorClassIdentifier: 
+  m_GroupName: SFX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aaed547be61429e4ba5f922739c61b40
+  m_SerializeEntries:
+  - m_GUID: 4339e59155b9e004c96c75b44b9238ba
+    m_Address: Assets/10_Audio/SFX/Waring.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eb656951ffad5d4c9a68b48b3c5b3f5
+    m_Address: Assets/10_Audio/SFX/AddEnhanceToken.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f0be3f255a31349a9f9b181ebe6958
+    m_Address: Assets/10_Audio/SFX/UiClick.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec504222591341347bcc47eea365b3ea
+    m_Address: Assets/10_Audio/SFX/TowerRedAttack.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6576dc09904e614d8f40575a255751e
+    m_Address: Assets/10_Audio/SFX/TowerWhiteAttack.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52d3393ce99292a4cb4f8d0b26215c4f
+    m_Address: Assets/10_Audio/SFX/AddSummonToken.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a920202505eac174182ad5cd95cdc859
+    m_Address: Assets/10_Audio/SFX/MonsterDie.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2145b07a1ef397479245b81181de0df
+    m_Address: Assets/10_Audio/SFX/TowerSale.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf4d7e9dac60ca74abfde0438b698f51
+    m_Address: Assets/10_Audio/SFX/TowerCreate.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 586474f097b7eec45a87bffa09612b90
+    m_Address: Assets/10_Audio/SFX/TowerHyperAttack.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bed863a9e0ca1a240a0f47d0470f5a8c, type: 2}
+    - {fileID: 11400000, guid: 68c3b68ce99267c47a25ba6bdf8b9578, type: 2}

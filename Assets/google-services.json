@@ -1,0 +1,55 @@
+{
+    "project_info": {
+        "project_number": "687659379863",
+        "firebase_url": "https://elemental-dragon-defense-default-rtdb.firebaseio.com",
+        "project_id": "elemental-dragon-defense",
+        "storage_bucket": "elemental-dragon-defense.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:687659379863:android:f66022657f2ddb0cf44dd2",
+                "android_client_info": {
+                    "package_name": "com.onthe17floor.elementaldragondefense"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "687659379863-j4v5eii60ptku747jf0hqi0gcqaef7fp.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.onthe17floor.elementaldragondefense",
+                        "certificate_hash": "001002f70baf9b28ea799f4bcdc02a0dab2d9a94"
+                    }
+                },
+                {
+                    "client_id": "687659379863-8cejpv0dmhl3tkl4quid7kmdl1q52bqg.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAI6RphSuuIXsPI19LDQCGsLXkNfjnpP5s"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "687659379863-1bqa267be70l9hn91gh0fnn86qq9301h.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "687659379863-ecr3vcv7hv2e57nl9r7qfe9tmb47afs9.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "com.onthe17floor.elementaldragondefense"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

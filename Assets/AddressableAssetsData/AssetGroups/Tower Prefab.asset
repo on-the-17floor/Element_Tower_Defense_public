@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tower Prefab
+  m_EditorClassIdentifier: 
+  m_GroupName: Tower Prefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f721771edf82daa4eb0a853bd064962b
+  m_SerializeEntries:
+  - m_GUID: 8cc0a2127df092e49ae1c8c67089c181
+    m_Address: 00_04_Gray-Green Water Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1e3bbbf6d4a2ea4b9b7dad6e531ad66
+    m_Address: 00_03_Gray-Green Light Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ac612d541558fc4198893d1466f0028
+    m_Address: 00_02_Gray-Green Grass Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e503afb528ddd184f8213a99a45b0703
+    m_Address: 00_01_Gray-Green Fire Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aaf2460d5bf16ff47ab004222044d675
+    m_Address: 00_00_Gray-Green Earth Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96540d77579ac804a91229a3265e4726
+    m_Address: 02_04_Blue_Purple Light Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e0503a1fb2ade74a89ae293fb5e7fac
+    m_Address: 02_03_Blue_Purple Grass Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b9bbfb7e364a6045ae6e64334386365
+    m_Address: 02_02_Blue_Purple Earth Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b01d862c955d8d42a1d441246564a01
+    m_Address: 02_01_Blue_Purple Water Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 348f399054e0b8c46aa62196add917ba
+    m_Address: 02_00_Blue_Purple Fire Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 540775e3fa63d7d4d8737800eb177345
+    m_Address: 01_04_Gray-Green Light Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a59a9cee91bf4904da7891ba9f3ec4ff
+    m_Address: 01_03_Gray-Green Grass Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00cfaed7367937840a6544717c2e8859
+    m_Address: 01_02_Gray-Green Earth Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c32b3d94a3d01c242855e86557a87703
+    m_Address: 01_01_Gray-Green Water Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9638c9163d204f9439dd244a16a3a5de
+    m_Address: 01_01_Gray-Green Fire Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e2a1b78781cd524cbabd0a67937e1aa
+    m_Address: 03_04_Blue_Purple Light Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10366663d07486c41889886d4e2bc133
+    m_Address: 03_03_Blue_Purple Grass Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb3d0e2b1538d86468955f3094ad813e
+    m_Address: 03_02_Blue_Purple Earth Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec573732215bde946b99d4e7282880c9
+    m_Address: 03_01_Blue_Purple Water Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd25997a727633f4a8ba5dcb848f01d9
+    m_Address: 03_00_Blue_Purple Fire Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 200733938899b1747b65b13bf825584b
+    m_Address: 04_01_Hyper Water Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06f840a507751d346990df099cbdbcc7
+    m_Address: 04_00_Hyper Fire Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79eee9c01ba213e4b9464ea6540356c2
+    m_Address: 04_04_Hyper Light Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c40a967f4116848b5c696b350e2f6d
+    m_Address: 04_03_Hyper Grass Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14cd140ad8ac68646880d9fced9b697a
+    m_Address: 04_02_Hyper Earth Tower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerPrefab
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1b9d8849fec549c47a64c102298abd0b, type: 2}
+    - {fileID: 11400000, guid: 71cadd3bf699f2145be1a5b237c614d9, type: 2}

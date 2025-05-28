@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MyTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 52a15b188b4a5b2449e042935a62f9b1, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2384530718720
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633823371264
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6595033120768
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1573716712177664
+    m_Localized: '{0} seconds until the wave starts'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922426017103872
+    m_Localized: Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1922836165509120
+    m_Localized: Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1923055032680448
+    m_Localized: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2132990010015744
+    m_Localized: Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143821758152704
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2143918667546624
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246748329951232
+    m_Localized: Not enough  SummonToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2246776758943744
+    m_Localized: Not enough UpgradToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2494616651382784
+    m_Localized: Not enough RewardTicket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4036015276376064
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4036512775356416
+    m_Localized: GiveUp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4037418178789376
+    m_Localized: Buy Stone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4789675337924608
+    m_Localized: Fire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790061109035008
+    m_Localized: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790127811051520
+    m_Localized: Earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790154658791424
+    m_Localized: Grass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790185218490368
+    m_Localized: Light
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790210174599168
+    m_Localized: Gray
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790246308528128
+    m_Localized: Red
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790269825990656
+    m_Localized: Blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790342349701120
+    m_Localized: Purple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4790396946956288
+    m_Localized: Hyper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792413937418240
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792470778626048
+    m_Localized: AttackSpeed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792511782141952
+    m_Localized: AttackRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4792573903978496
+    m_Localized: UpgradValue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6158199239163904
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6848246670114816
+    m_Localized: Choose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9859911590297600
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10212043766054912
+    m_Localized: "SummonToken\n +400"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10212258942238720
+    m_Localized: "UpgradToken\n +400"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12746915994910720
+    m_Localized: SummonToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747140620861440
+    m_Localized: UpgradeToken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747309647118336
+    m_Localized: RewardTicket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747425019838464
+    m_Localized: Stage Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12747508696203264
+    m_Localized: Mission Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748019256246272
+    m_Localized: use reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12748840316420096
+    m_Localized: Get a Reward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12749141823963136
+    m_Localized: HiddenMission Success
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975124744421376
+    m_Localized: It's a range attack that simultaneously damages the enemy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975427040493568
+    m_Localized: The attack speed is faster than other dragon towers.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975569030266880
+    m_Localized: gnore the enemy's defense.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975647958679552
+    m_Localized: It slows down the enemy's movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14975658989699072
+    m_Localized: Strengthen the surrounding Dragon Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976069494620160
+    m_Localized: Ignore Defense
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976209034919936
+    m_Localized: Special Ability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976924272803840
+    m_Localized: Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14976960922632192
+    m_Localized: Tier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14980921637453824
+    m_Localized: Mission
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14980958891261952
+    m_Localized: Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15218956132139008
+    m_Localized: nonSale
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

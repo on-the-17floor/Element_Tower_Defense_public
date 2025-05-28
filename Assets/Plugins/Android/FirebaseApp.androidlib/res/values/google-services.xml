@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://elemental-dragon-defense-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">687659379863</string>
+  <string name="google_storage_bucket" translatable="false">elemental-dragon-defense.firebasestorage.app</string>
+  <string name="project_id" translatable="false">elemental-dragon-defense</string>
+  <string name="google_api_key" translatable="false">AIzaSyAI6RphSuuIXsPI19LDQCGsLXkNfjnpP5s</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAI6RphSuuIXsPI19LDQCGsLXkNfjnpP5s</string>
+  <string name="google_app_id" translatable="false">1:687659379863:android:f66022657f2ddb0cf44dd2</string>
+  <string name="default_android_client_id" translatable="false">687659379863-iedv721an6emn04g7i73io8f87md4ao7.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">687659379863-8cejpv0dmhl3tkl4quid7kmdl1q52bqg.apps.googleusercontent.com</string>
+</resources>

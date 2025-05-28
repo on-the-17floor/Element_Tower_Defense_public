@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Tower Tier Prefab
+  m_EditorClassIdentifier: 
+  m_GroupName: Tower Tier Prefab
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9d99f44c900aa1f42b94c5252ed07c4e
+  m_SerializeEntries:
+  - m_GUID: 40a7eb39dd6748949bcda630478b9d04
+    m_Address: 00_Gray Tier Effect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ddf28dcc2a0994481b9463ca794f22
+    m_Address: 01_Green Tier Effect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 939e5bc691b105c4a82a94dca6fc8652
+    m_Address: 02_Blue Tier Effect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4eccfab2fdbf1fa4c9719e1f563fe4b1
+    m_Address: 03_Purple Tier Effect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15bf1fb9e6e957a4a96afaa13cfd2e55
+    m_Address: 04_Hyper Tier Effect
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TowerEffect
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ccbd67479bedc3746822e262ebc8cdfa, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5c1394e4cb024c94698ac5f501ffa2f1, type: 2}
+    - {fileID: 11400000, guid: 300de25597e169e489cc6ceabb640bb9, type: 2}
